@@ -4,10 +4,6 @@
  */
 package progettoinfo;
 
-/**
- *
- * @author Asus
- */
 public class Login {
     
      private final String password, username;
